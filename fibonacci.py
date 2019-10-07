@@ -31,3 +31,4 @@ print(f'Time: {(time.time() -t):.5f}s')
 print(f'Steps: {steps}')
 print(f'N: {n}')
 
+# E asa rapid!
